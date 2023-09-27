@@ -14,5 +14,6 @@ This repository is the implementation of a ConvNet model that will recognize SIG
 ```shell
 git clone https://github.com/abel-shimeles/SIGN_Langauge_Recognition_Model.git
 cd SIGN_Langauge_Recognition_Model
+```
 
 2. Run the [SIGN_Langauge_Recognition_Model.ipynb](SIGN_Langauge_Recognition_Model.ipynb) file.
